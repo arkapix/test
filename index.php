@@ -1,2 +1,2 @@
- 'hello me';
+$out .=  'hello me';
 
