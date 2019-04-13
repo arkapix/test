@@ -1,4 +1,2 @@
-<?php
-echo 'hello me';
+ 'hello me';
 
-?>
